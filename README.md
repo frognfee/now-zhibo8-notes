@@ -1,2 +1,14 @@
 # now-zhibo8-notes
-HTML page archive and documentation
+
+静态页面保存仓库
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
